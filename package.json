@@ -1,0 +1,28 @@
+{
+  "name": "map-of-the-world",
+  "version": "1.0.0",
+  "description": "GDI hackathon code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdi-hackathon-map-of-the-world/map-of-the-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdi-hackathon-map-of-the-world/map-of-the-world/issues"
+  },
+  "homepage": "https://github.com/gdi-hackathon-map-of-the-world/map-of-the-world#readme",
+  "devDependencies": {
+    "webpack": "^5.63.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "mapbox-gl": "^2.6.0"
+  }
+}
