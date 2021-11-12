@@ -10,14 +10,14 @@ body {
 
 h1 {
   margin: 0;
-  font-family: 'Lobster', cursive;
+  font-family: fantasy;
   font-weight: normal;
   font-size: 2rem;
 }
 
 h2 {
   margin: 0 0 0.5rem 0;
-  font-family: 'Lobster', cursive;
+  font-family: fantasy;
   font-weight: normal;
   font-size: 1.2rem;
 }
