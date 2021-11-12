@@ -65,8 +65,7 @@ header {
 aside {
   flex: 1;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
 }
 .panel {
   margin: 1rem;
